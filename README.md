@@ -6,7 +6,7 @@ Calculadora de gorjeta feita em um curso de JavaScript. O sistema recebe do usu√
 <table align="center">
   <tr>
     <td align="center">
-      <img src="./readme-image.png" alt="Calculadora de gorjetas sendo usada" width="300px"><br>
+      <img src="./readme-image" alt="Calculadora de gorjetas sendo usada" width="600px"><br>
       <sub>Calculadora de gorjetas sendo usada</sub>
     </td>
   </tr>
